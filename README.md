@@ -7,7 +7,7 @@
 
 A lightweight, high-performance desktop GUI application written in C++ using **Dear ImGui**, **GLFW**, and **OpenGL3**. This utility computes the precise physical dimensions of a rectangular microstrip patch antenna based on key engineering input parameters.
 
-![App Preview](doc/ScreenshotOfApp.png.png)
+![App Preview](doc/ScreenshotOfApp.png)
 
 
 
