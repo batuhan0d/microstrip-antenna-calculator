@@ -22,7 +22,7 @@ A lightweight, high-performance desktop GUI application written in C++ using **D
 ├── imgui/             # Core ImGui library and backends
 ├── include/           # Header declarations (reqtangular.h, stb_image.h)
 └── src/               # Additional source files
-
+```
 ## 🏗️ Building and Running
 
 This project uses **CMake** for generating build files. Ensure you have CMake and a C++ compiler installed. The CMake configuration is set up to automatically copy the required `image` and `fonts` directories to the build output folder
